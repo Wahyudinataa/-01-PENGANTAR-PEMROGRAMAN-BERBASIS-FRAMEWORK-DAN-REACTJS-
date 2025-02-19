@@ -36,22 +36,21 @@ Telah terinstall GIT, VS Code, dan NodeJs beserta npm
 | `/next` | Folder berisi file hasil build Next.js setelah menjalankan `next build`. |
 | `/node_modules` | Folder yang menyimpan semua package dan dependencies yang diinstal dengan npm atau yarn. |
 | `/public` | Folder untuk menyimpan aset statis seperti gambar, ikon, dan file lainnya yang bisa diakses secara langsung oleh browser. |
-| `/src/app` | Folder utama aplikasi yang menggunakan **App Router** (fitur terbaru Next.js). Semua halaman dan komponen utama aplikasi didefinisikan di sini. |
-| `file.svg, globe.svg, next.svg, vercel.svg, window.svg` | Berbagai aset ikon dan logo dalam format SVG untuk tampilan UI. |
+| `/src/app` | Folder utama aplikasi yang menggunakan App Router (fitur terbaru Next.js). Semua halaman dan komponen utama aplikasi didefinisikan di sini. |
 | `.gitignore` | File yang menentukan daftar file/folder yang tidak perlu dimasukkan dalam tracking Git, seperti `node_modules`, `.next`, dll. |
-| `eslint.config.mjs` | Konfigurasi untuk **ESLint**, alat yang membantu menjaga kualitas dan konsistensi kode. |
+| `eslint.config.mjs` | Konfigurasi untuk ESLint, alat yang membantu menjaga kualitas dan konsistensi kode. |
 | `next-env.d.ts` | Deklarasi tipe untuk TypeScript agar kompatibel dengan Next.js. |
 | `next.config.ts` | File konfigurasi Next.js, di mana kamu bisa mengatur fitur seperti redirects, rewrites, optimasi gambar, dan lainnya. |
 | `package-lock.json` | File yang mengunci versi dependencies untuk menjaga konsistensi ketika proyek diinstal di lingkungan berbeda. |
 | `package.json` | Manifest proyek yang berisi metadata, daftar dependencies, script untuk menjalankan proyek, dll. |
-| `postcss.config.mjs` | Konfigurasi untuk **PostCSS**, yang digunakan oleh Tailwind CSS untuk proses styling. |
-| `tailwind.config.ts` | File konfigurasi **Tailwind CSS**, tempat mengatur tema, warna, font, dan utility kelas lainnya. |
-| `tsconfig.json` | Konfigurasi untuk **TypeScript**, yang menentukan aturan dan opsi kompilasi kode TS ke JS. |
+| `postcss.config.mjs` | Konfigurasi untuk PostCSS, yang digunakan oleh Tailwind CSS untuk proses styling. |
+| `tailwind.config.ts` | File konfigurasi Tailwind CSS, tempat mengatur tema, warna, font, dan utility kelas lainnya. |
+| `tsconfig.json` | Konfigurasi untuk TypeScript, yang menentukan aturan dan opsi kompilasi kode TS ke JS. |
 | `favicon.ico` | Ikon kecil yang muncul di tab browser saat aplikasi dibuka. |
 | `globals.css` | File CSS global yang digunakan untuk mendefinisikan styling dasar aplikasi. |
 | `layout.tsx` | Komponen layout utama yang membungkus halaman Next.js untuk menyusun struktur dasar aplikasi (seperti navbar, footer, dll.). |
 | `page.tsx` | Halaman utama/root aplikasi yang pertama kali dimuat saat pengguna membuka aplikasi. |
-
+| `README.md` | file dokumentasi proyek. |
 
 BUKTI SCREENSHOOT 
 ![Screenshot 2025-02-18 002142](https://github.com/user-attachments/assets/aa88a6c2-9920-4869-a521-c5237d2a76a6)
@@ -59,6 +58,12 @@ BUKTI SCREENSHOOT
 ![Screenshot 2025-02-19 071625](https://github.com/user-attachments/assets/e8bdf2d6-771a-4dd1-8673-863f104dd64f)
 
 
+### Jawaban Soal 3
+|  | Kegunaan masing-masing |
+|--|--|
+| GIT |  Git merupakan sistem yang berguna dalam hal penyimpanan/perubahan/melacak kode dalam proyek dan memudahkan proses kolaborasi tim |
+| VS Code |  Code editor yang berguna dalam membantu para developer untuk membuat proyek karena vscode menyediakan banyak ekstensi, dapat digunakan di berbagai bahasa pemrograman, bisa dijalankan di segala OS, terintegrasi dengan git, dan banyak kelebihan lainnya |
+| NodeJS | Runtime JavaScript yang berguna untuk menjalankan proyek, runtime di server/backende untuk mengembangkan API, dan aplikasi realtime |
 
 
 
