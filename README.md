@@ -1,4 +1,4 @@
-**<<< Project ada di branch master >>>**
+![Screenshot 2025-02-19 082327](https://github.com/user-attachments/assets/97d7fb4b-bdc0-4ac7-a5bf-e1f6a0873b44)**<<< Project ada di branch master >>>**
 ## Laporan Praktikum
 
 |  | Pemrograman Berbasis Framework 2024 |
@@ -14,11 +14,8 @@
 | VS Code |  Code editor yang berguna dalam membantu para developer untuk membuat proyek karena vscode menyediakan banyak ekstensi, dapat digunakan di berbagai bahasa pemrograman, bisa dijalankan di segala OS, terintegrasi dengan git, dan banyak kelebihan lainnya |
 | NodeJS | Runtime JavaScript yang berguna untuk menjalankan proyek, runtime di server/backende untuk mengembangkan API, dan aplikasi realtime |
 
-
-
-
 BUKTI SCREENSHOOT 
-Telah terinstall GIT, VS Code, dan NodeJs beserta npm
+Telah terinstall GIT, VS Code, dan NodeJs beserta npm <br>
 ![Screenshot 2025-02-17 234935](https://github.com/user-attachments/assets/8ba06f32-8286-435e-ba7a-f5dd64af9f88)
 
 
@@ -53,17 +50,31 @@ Telah terinstall GIT, VS Code, dan NodeJs beserta npm
 | `README.md` | file dokumentasi proyek. |
 
 BUKTI SCREENSHOOT 
-![Screenshot 2025-02-18 002142](https://github.com/user-attachments/assets/aa88a6c2-9920-4869-a521-c5237d2a76a6)
+
+![Screenshot 2025-02-18 002142](https://github.com/user-attachments/assets/aa88a6c2-9920-4869-a521-c5237d2a76a6) 
 ![Screenshot 2025-02-19 071549](https://github.com/user-attachments/assets/64de5a1d-164b-4879-8290-666694263a71)
 ![Screenshot 2025-02-19 071625](https://github.com/user-attachments/assets/e8bdf2d6-771a-4dd1-8673-863f104dd64f)
 
 
 ### Jawaban Soal 3
-|  | Kegunaan masing-masing |
-|--|--|
-| GIT |  Git merupakan sistem yang berguna dalam hal penyimpanan/perubahan/melacak kode dalam proyek dan memudahkan proses kolaborasi tim |
-| VS Code |  Code editor yang berguna dalam membantu para developer untuk membuat proyek karena vscode menyediakan banyak ekstensi, dapat digunakan di berbagai bahasa pemrograman, bisa dijalankan di segala OS, terintegrasi dengan git, dan banyak kelebihan lainnya |
-| NodeJS | Runtime JavaScript yang berguna untuk menjalankan proyek, runtime di server/backende untuk mengembangkan API, dan aplikasi realtime |
+BUKTI SCREENSHOT BUTTON
+![Screenshot 2025-02-19 082327](https://github.com/user-attachments/assets/2af447f0-1994-4f7b-bdc4-35a9b99e6228)
+![Screenshot 2025-02-19 082339](https://github.com/user-attachments/assets/a1dad1b8-d139-4e34-94b1-9f639d4ee921)
+![Screenshot 2025-02-19 082410](https://github.com/user-attachments/assets/518c9f3a-c6a3-4970-b8a2-44324b061db6) <br>
+
+BUKTI SCREENSHOT PROFILE
+![Screenshot 2025-02-19 091540](https://github.com/user-attachments/assets/3550b1e0-41b1-4238-9e7f-af961f0bbe16)
+![Screenshot 2025-02-19 091601](https://github.com/user-attachments/assets/d6b87389-f18a-4382-aca7-ddf4bc973996)
+
+
+
+
+
+
+
+
+
+
 
 
 
