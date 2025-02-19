@@ -1,41 +1,38 @@
-<<<<<<< HEAD
-# -01-PENGANTAR-PEMROGRAMAN-BERBASIS-FRAMEWORK-DAN-REACTJS-
-244107027012 - Wahyudinata - Pem. Berbasis Framework 2024 
-=======
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+**<<< Project ada di branch master >>>**
+## Laporan Praktikum
 
-## Getting Started
+|  | Pemrograman Berbasis Framework 2024 |
+|--|--|
+| NIM |  244107027012|
+| Nama |  Wahyudinata |
+| Kelas | 4K-RPL |
 
-First, run the development server:
+### Jawaban Soal 1
+|  | Kegunaan masing-masing |
+|--|--|
+| GIT |  Git merupakan sistem yang berguna dalam hal penyimpanan/perubahan/melacak kode dalam proyek dan memudahkan proses kolaborasi tim |
+| VS Code |  Code editor yang berguna dalam membantu para developer untuk membuat proyek karena vscode menyediakan banyak ekstensi, dapat digunakan di berbagai bahasa pemrograman, bisa dijalankan di segala OS, terintegrasi dengan git, dan banyak kelebihan lainnya |
+| NodeJS | Runtime JavaScript yang berguna untuk menjalankan proyek, runtime di server/backende untuk mengembangkan API, dan aplikasi realtime |
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+BUKTI SCREENSHOOT 
+Telah terinstall GIT, VS Code, dan NodeJs beserta npm
+![Screenshot 2025-02-17 234935](https://github.com/user-attachments/assets/8ba06f32-8286-435e-ba7a-f5dd64af9f88)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+### Jawaban Soal 2
+- TypeScript : JavaScript versi lebih canggih yang dapat mendeteksi kesalahan sebelum kode dijalankan sehingga lebih aman, mudah dimaintain dan meningkatkan kualitas kode.
+- ESLint : Alat bantu untuk mendeteksi/memperbaiki kode JavaScript agar tidak ada kesalahan dan lebih rapi. Seperti "spell-check" tetapi untuk kode.
+- Tailwind CSS : Framework CSS yang membantu desain website lebih cepat, tanpa harus menulis banyak kode CSS manual.
+- App Router (Next.js 13+) → Sistem routing baru di Next.js berbasis file & folder di app/, membuat website lebih cepat dan rapi dalam mengatur halaman, mendukung server components & layout nesting.
+- Import Alias : cara yang lebih simple untuk import path
+- Turbopack : Bundler modern & super cepat, meningkatkan kecepatan dalam develop aplikasi.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> 2a7cd38 (Initial commit from Create Next App)
+|  | Kegunaan masing-masing Struktur Folder Proyek|
+|--|--|
+| GIT |  Git merupakan sistem yang berguna dalam hal penyimpanan/perubahan/melacak kode dalam proyek dan memudahkan proses kolaborasi tim |
+| VS Code |  Code editor yang berguna dalam membantu para developer untuk membuat proyek karena vscode menyediakan banyak ekstensi, dapat digunakan di berbagai bahasa pemrograman, bisa dijalankan di segala OS, terintegrasi dengan git, dan banyak kelebihan lainnya |
+| NodeJS | Runtime JavaScript yang berguna untuk menjalankan proyek, runtime di server/backende untuk mengembangkan API, dan aplikasi realtime |
+BUKTI SCREENSHOOT 
